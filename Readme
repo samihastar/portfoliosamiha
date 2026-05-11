@@ -1,0 +1,37 @@
+# Task Manager App
+
+A cross-platform mobile application that helps users organize daily tasks efficiently with priorities, deadlines, and reminders. The app features a clean UI and supports offline usage with local storage.
+
+---
+
+## 🚀 Features
+- Add, edit, and delete tasks
+- Set task priorities
+- Add deadlines and reminders
+- Offline support
+- Data stored locally using AsyncStorage
+
+---
+
+## 🛠️ Tech Stack
+- React Native
+- JavaScript
+- AsyncStorage
+
+---
+
+## 📱 About the App
+This Task Manager App is designed to improve productivity by helping users track and manage their daily activities in a simple and organized way. It works offline and ensures data is always saved locally on the device.
+
+---
+
+## 📌 Future Improvements
+- Cloud sync support
+- Push notifications
+- Dark mode
+- Task categories
+
+---
+
+## 👨‍💻 Developer
+Created with ❤️ using React Native
